@@ -1,0 +1,13 @@
+{
+    "url": "https://afternoon-refuge-81305.herokuapp.com",
+    "secret": "210c8bac-f3b6-49e5-ad56-fb93ba3539f5",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": 27017,
+        "username": "",
+        "password": "",
+        "database": "nodebb",
+        "uri": "mongodb://admin:82e!XifXEaGduY9@ds139979.mlab.com:39979/heroku_qzl2vvtt"
+    }
+}
